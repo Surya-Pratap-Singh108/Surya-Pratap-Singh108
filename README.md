@@ -11,7 +11,7 @@ from REST APIs and authentication to RAG-based AI features.
 
 [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-7ab190316/) ·
 [LeetCode](https://leetcode.com/u/Surya_pratap_123/) ·
-[Email](mailto:suryachaudhary.8449@gmail.com) ·
+[Email](https://mail.google.com/mail/?view=cm&fs=1&to=suryachaudhary.8449%40gmail.com) ·
 [Instagram](https://instagram.com/surya_chaudhary_18)
 
 </div>
@@ -148,7 +148,7 @@ I'm open to internships and full-time opportunities.
 **Reach me through:**
 
 - [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-7ab190316/)
-- [Email](mailto:suryachaudhary.8449@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=suryachaudhary.8449%40gmail.com)
 - [LeetCode](https://leetcode.com/u/Surya_pratap_123/)
 
 <br>
