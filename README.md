@@ -102,7 +102,7 @@ Compare Mistral and Cohere responses side by side, orchestrated with LangGraph a
 I'm open to internships and full-time opportunities. Reach me through:
 
 - [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-7ab190316/)
-[Email](https://mail.google.com/mail/?view=cm&fs=1&to=suryachaudhary.8449%40gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=suryachaudhary.8449%40gmail.com)
 - [LeetCode](https://leetcode.com/u/Surya_pratap_123/)
 
 <br>
